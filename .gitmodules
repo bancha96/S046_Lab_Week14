@@ -22,3 +22,7 @@
 	path = plugin4
 	url = https://github.com/bancha96/plugin4.git
 	ignore = dirty
+[submodule "plugin-bancha"]
+	path = plugin-bancha
+	url = https://github.com/bancha96/plugin-bancha.git
+	ignore = dirty
